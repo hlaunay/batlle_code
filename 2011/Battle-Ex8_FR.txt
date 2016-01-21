@@ -1,0 +1,3 @@
+=======================Exercice 8 – Palindrome
+=======================
+Un palindrome est un mot qui peut être lu de gauche à droite et de droite à gauche tout en conservant la même orthographe.Écrire un programme déterminant si un mot est un palindrome.

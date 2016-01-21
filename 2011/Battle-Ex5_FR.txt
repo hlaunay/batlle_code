@@ -1,0 +1,3 @@
+=======================Exercice 5 – Télégramme
+=======================
+On donne un télégramme -> Une phrase. On souhaite compter le nombre d'unités de paiement du télégramme sachant qu'il se termine par le mot "stop", qu'un mot de longueur L coute (L/10)+1 unités et que le mot "stop" ne coûte rien.Indiquer le prix des phrases suivantes :-	"ça compile ça marche stop"-	"mon chien s appelle rodi stop"

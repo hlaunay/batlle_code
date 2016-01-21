@@ -1,0 +1,3 @@
+===================Exercice 9 - Sudoku
+===================
+Savez-vous résoudre automatiquement une grille de Sudoku ?La grille vous est donnée sous la forme d'un fichier texte comportant 9 lignes de 9 caractères. Les cases inconnues sont symbolisées par le caractère espace, les cases connues sont données sous la forme du chiffre qu'elles contiennent.
